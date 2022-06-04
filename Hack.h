@@ -209,7 +209,7 @@ void HookEndScene(_Hook::TrampHook& HookObject, _Direct3D9::Info& D3D9Object)
 
 }
 
-
+// Updated
 
 void Run(HMODULE hModule) {
 	HookEndScene(EndSceneHookInfo, Direct3D9Info);
