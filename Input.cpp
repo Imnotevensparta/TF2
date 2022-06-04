@@ -1,0 +1,14 @@
+#include "Input.h"
+
+// Initializing Key Vars
+SHORT _Keys::LEFTMOUSEBUTTON = 0x01;
+SHORT _Keys::RIGHTMOUSEBUTTON = 0x02;
+SHORT _Keys::LEFTSHIFT = 0x10;
+SHORT _Keys::LEFTCTRL = 0x11;
+SHORT _Keys::F_KEY = 0x46;
+SHORT _Keys::UP = VK_UP;
+SHORT _Keys::DOWN = VK_DOWN;
+SHORT _Keys::LEFT = VK_LEFT;
+SHORT _Keys::RIGHT = VK_RIGHT;
+SHORT _Keys::INSERT_KEY = VK_INSERT;
+SHORT _Keys::END_KEY = VK_END;

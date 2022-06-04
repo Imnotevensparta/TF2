@@ -1,0 +1,21 @@
+﻿  Cheat.cpp
+D:\Development\source\repos\TF2\TF2\Cheat.cpp(115,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\source\repos\TF2\TF2\Cheat.cpp(132,29): warning C4018: '<': signed/unsigned mismatch
+D:\Development\source\repos\TF2\TF2\Cheat.cpp(226,25): warning C4018: '<': signed/unsigned mismatch
+D:\Development\source\repos\TF2\TF2\Cheat.cpp(241,25): warning C4018: '<': signed/unsigned mismatch
+D:\Development\source\repos\TF2\TF2\Cheat.cpp(317,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+D:\Development\source\repos\TF2\TF2\Drawing.h(106,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(143,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(148,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(162,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(167,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(221,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(267,67): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(267,50): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Development\source\repos\TF2\TF2\Drawing.h(268,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Development\source\repos\TF2\TF2\Hack.h(85,28): warning C4018: '<': signed/unsigned mismatch
+D:\Development\source\repos\TF2\TF2\Hack.h(144,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development\source\repos\TF2\TF2\Hack.h(148,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  TF2.vcxproj -> D:\Development\source\repos\TF2\Debug\TF2.dll

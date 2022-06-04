@@ -1,0 +1,11 @@
+﻿  Cheat.cpp
+  Geometry.cpp
+  Hook.cpp
+  Main.cpp
+  Math.cpp
+  Offsets.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TF2.vcxproj -> D:\source\repos\TF2\Release\TF2.dll
